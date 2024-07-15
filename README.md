@@ -16,16 +16,20 @@ By completing this reflection, you will gain a clearer understanding of your car
 
 ### Personal Information
 
-- **Name:**
-- **Date:**
-- **Current Role/Position:**
-- **Field of Interest:**
+- **Name:Hlelolwenkosi Ndwandwe
+- **Date:17 March 2024
+- **Current Role/Position: Student
+- **Field of Interest: Software Development
 
 ### Part 1: Self-Assessment Reflection
 
 1. **Skills Analysis**:
     
-    - List your current skills and areas of expertise.
+    - List your current skills and areas of expertise. 
+    1 Problem-solving
+    2 Language skills
+    3 Research and analytical skills
+    4 C
     - Identify skills you need to develop or improve.
 2. **Interests and Values**:
     
